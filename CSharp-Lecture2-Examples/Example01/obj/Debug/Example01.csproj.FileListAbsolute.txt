@@ -1,1 +1,5 @@
 C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example01\bin\Debug\Example01.exe.config
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example01\bin\Debug\Example01.exe
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example01\bin\Debug\Example01.pdb
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example01\obj\Debug\Example01.exe
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example01\obj\Debug\Example01.pdb

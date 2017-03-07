@@ -1,1 +1,6 @@
 C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\bin\Debug\Example02.exe.config
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\bin\Debug\Example02.exe
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\bin\Debug\Example02.pdb
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\obj\Debug\Example02.exe
+C:\hibik\CSharp-Lecture2-Example\CSharp-Lecture2-Examples\Example02\obj\Debug\Example02.pdb

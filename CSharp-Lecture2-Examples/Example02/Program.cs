@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Example02
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine(0.1f + 0.2f == 0.3f);
+            Console.WriteLine(1.0f + 0.33f == 1.33f);
+            Console.WriteLine(1 / 2 * 10);
+            Console.WriteLine(1.0 / 2.0 * 10.0);
         }
     }
 }
